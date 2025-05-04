@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Windows/spaceshipinterior/Content/Paks/spaceshipinterior-Windows.ucas
